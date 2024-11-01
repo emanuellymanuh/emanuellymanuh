@@ -1,4 +1,5 @@
-## Hi there 👋
+# Olá prezados leitores, me chamo Emauelly👋
+#### O intuito dassa pagina é a apresentação de minha pessoa ,🌱 estudo no primeiro ano do ensino médio e em 💬 progamação estamos aprendendo sobre a plataforma GITHUB.COM,✨ tal por onde estou me apresentando a vocês. Grata por lerem até aqui,⚡ até a próxima!- 😄 
 
 <!--
 **emanuellymanuh/emanuellymanuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
